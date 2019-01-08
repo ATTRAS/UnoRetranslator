@@ -20,6 +20,9 @@ Oh, there you should find a NodeJS project, that provides us a telegram bot. For
 ```
 Before it you should create your own bot using a "BotFather" in Telegram. After bot registration, a "BotFather" will give you a token, just paste it to `config.json`.
 
+And don't forget about U8G2 library, you can install it from Sketch > Include Library > Manage Libraries..., just type "u8g2":
+![Instruction](instruction.png)
+
 ## How to connect:
 ![Sketch](sketch.png)
 #### On other boards you should check SCL and SDA ports, A4 as SDA and A5 as SCL only on Arduino Uno (or not only).
